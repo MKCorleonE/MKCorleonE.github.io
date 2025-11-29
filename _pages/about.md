@@ -33,8 +33,8 @@ I obtained my Bachelor degree at [Ocean University of China](http://eweb.ouc.edu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 [Research on optimal location of network base stations based on establishing 0−1 dynamic programming](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10016090)
 
@@ -44,8 +44,6 @@ Chenyuan Jia, **Jiawen Liang**, Jingyao Han
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2022.06* Second Prize of the 12th MathorCup College Mathematical Modeling Challenge National Competition in 2022.

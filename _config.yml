@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiawen LIANG (梁嘉文)"
+title                    : "Jiawen LIANG"
 description              : "Master in The Chinese University of Hong Kong, Shenzhen. Majoring in Data Science."
 repository               : "MKCorleonE/MKCorleonE.github.io"
 google_scholar_stats_use_cdn : true
