@@ -41,10 +41,10 @@ I obtained my Bachelor degree at [Ocean University of China](http://eweb.ouc.edu
 Chenyuan Jia, **Jiawen Liang**, Jingyao Han
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
+-->
 # 🎖 Honors and Awards
 - *2022.06* Second Prize of the 12th MathorCup College Mathematical Modeling Challenge National Competition in 2022.
 - *2022.05* Honorable Mention of the 2022 Modeling Contest for College Students in the United States. 
