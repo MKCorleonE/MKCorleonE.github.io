@@ -28,7 +28,7 @@ I obtained my Bachelor degree at [Ocean University of China](http://eweb.ouc.edu
 - *2022.12*: &nbsp;🎉🎉 Our paper 'Research on optimal location of network base stations based on establishing 0−1 dynamic programming' is accepted to IEEE TOCS 2022!
 
 # 📖 Educations
-- *2019.06 - Present*, Graduate, The Chinese University of Hong Kong, Shenzhen, major in Data Science.
+- *2025.06 - Present*, Graduate, The Chinese University of Hong Kong, Shenzhen, major in Data Science.
 - *2020.09 - 2024.06*, Undergraduate, Ocean University of China, major in Mathematics and Applied Mathematics.
 
 # 📝 Publications 
